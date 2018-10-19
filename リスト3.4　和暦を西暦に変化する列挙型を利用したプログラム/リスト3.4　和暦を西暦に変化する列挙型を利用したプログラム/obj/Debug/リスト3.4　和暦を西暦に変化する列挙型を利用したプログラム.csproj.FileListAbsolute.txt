@@ -1,0 +1,6 @@
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\bin\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.exe.config
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\bin\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.exe
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\bin\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.pdb
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\obj\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.csprojResolveAssemblyReference.cache
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\obj\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.exe
+c:\users\常重　友佑\documents\visual studio 2017\Projects\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム\obj\Debug\リスト3.4　和暦を西暦に変化する列挙型を利用したプログラム.pdb

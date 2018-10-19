@@ -1,0 +1,6 @@
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\obj\Debug\リスト4.7.csprojResolveAssemblyReference.cache
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\bin\Debug\リスト4.7.exe.config
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\bin\Debug\リスト4.7.exe
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\bin\Debug\リスト4.7.pdb
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\obj\Debug\リスト4.7.exe
+C:\Users\常重　友佑\Documents\Visual Studio 2017\Projects\リスト4.7\リスト4.7\obj\Debug\リスト4.7.pdb
